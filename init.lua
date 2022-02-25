@@ -1,0 +1,5 @@
+require("plugins")
+require("settings")
+require("status")
+require("treesitter-config")
+require("colors")
