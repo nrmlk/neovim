@@ -28,6 +28,3 @@ vim.o.autoindent = true
 vim.bo.autoindent = true
 vim.o.expandtab = true
 vim.bo.expandtab = true
-
--- gui specific
-vim.cmd[[set guifont=Liga\ SFMono\ Nerd\ Font:h14]]
